@@ -20,3 +20,8 @@ updates:
   directory: "/"
   schedule:
     interval: monthly
+
+- package-ecosystem: npm
+  directory: /themes/hugo-book/static/fonts/opensans
+  schedule:
+    interval: daily
